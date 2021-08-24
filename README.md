@@ -1,13 +1,13 @@
 Simulador de Redes(Roteamento) 1.0
 ==================================
 
-Trabalho acadêmico da disciplina de redes (Ciência da computação).  
-Simula um roteador de quatro portas, com um protocolo de atualização de tabela de roteamento.
+Trabalho acadÃªmico da disciplina de redes (CiÃªncia da computaÃ§Ã£o).  
+Simula um roteador de quatro portas, com um protocolo de atualizaÃ§Ã£o de tabela de roteamento.
 
 
-#### Instalação/Execução:
+#### InstalaÃ§Ã£o/ExecuÃ§Ã£o:
 
-O programa foi feito utilizando a ferramenta Netbeans, pode ser executado pelo Netbeans ou através do arquivo jar, localizado em: \dist\SimuladorRedes.jar
+O programa foi feito utilizando a ferramenta Netbeans, pode ser executado pelo Netbeans ou atravÃ©s do arquivo jar, localizado em: \dist\SimuladorRedes.jar
 
  
 #### Protocolos utilizados:
@@ -16,12 +16,13 @@ Dados:
 ```
  <#>>IP destino#IP origem#TTL#Porta<##>DADOS<<#>
 ```
-Atualização da Tabela de roteamento:
+AtualizaÃ§Ã£o da Tabela de roteamento:
 ```
-<#>>Ação(não utilizado)#Endereço da rede#Métrica#Porta<<#>
+<#>>AÃ§Ã£o(nÃ£o utilizado)#EndereÃ§o da rede#MÃ©trica#Porta<<#>
 ```
- 
 
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
  
 
 Gustavo Augusto Hennig
